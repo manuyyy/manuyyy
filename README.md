@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Manu :D</h1>
 
 
-- 🍪 Tec. Análise de Sistemas - 2º semestre
-- 🧃 Tec. de Informática - Formada
+- 🍪 Tecnólogo em Análise e gerenciamento de Sistemas - 2º semestre
+- 🧃 Técnico de Informática - Formada
 - 🍡 SQL - MySQL
 - 🍦  C/C#
-- 🍥  HTML - CSS
+- 🍥 HTML - CSS
 
 
 
